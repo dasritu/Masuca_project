@@ -22,6 +22,7 @@ li{
     min-width: 270px;
     margin: 20px 20px;
     display: block;
+    font-size:13px;
 }
 .list_click{
     border-bottom: 1px solid rgba(0, 19, 37, 0.16);
@@ -34,6 +35,9 @@ li{
     border-bottom: 1px solid rgba(0, 19, 37, 0.16);
     background-color: rgb(255, 255, 255);
     cursor: pointer;
+}
+.nav_item h4{
+    margin-top:20px;
 }
 .icon{
     margin-top:20px;
