@@ -1,0 +1,18 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 643px;
+    position: relative;
+    background-color: #c6d771;
+    margin: auto 1rem;
+    text-align: center;
+    font-family: arial;
+}
+.card-body{
+    display: flex;
+}
+.card2{
+    margin-top: -53px;
+}
+.head{
+    text-align: left;
+}
